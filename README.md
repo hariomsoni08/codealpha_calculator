@@ -36,4 +36,4 @@ A simple yet modern calculator built using HTML, CSS, and JavaScript. This app p
 
 ## Acknowledgment
 
-This task was given by **CodeAlpha** during the internship program.
+We would like to express our gratitude to **CodeAlpha** for providing this task as part of their internship program.
