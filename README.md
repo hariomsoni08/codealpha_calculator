@@ -1,29 +1,39 @@
-Calculator App
+# Calculator App
 
 A simple yet modern calculator built using HTML, CSS, and JavaScript. This app provides essential arithmetic operations with an attractive UI and real-feel digital buttons for a smooth user experience.
 
-Features
+## Features
 
-Basic Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
+- **Basic Arithmetic Operations**: Supports addition, subtraction, multiplication, and division.
+- **Responsive Design**: Works seamlessly on different screen sizes.
+- **Real-Feel Buttons**: Digital buttons designed to provide a tactile feel.
+- **Modern UI**: Stylish and intuitive interface for easy navigation.
+- **Efficient Functionality**: Optimized performance for quick calculations.
 
-Responsive Design: Works seamlessly on different screen sizes.
+## Technologies Used
 
-Real-Feel Buttons: Digital buttons designed to provide a tactile feel.
+- **HTML**: Structure of the app.
+- **CSS**: Styling for an attractive user interface.
+- **JavaScript**: Handles logic and interactivity.
 
-Modern UI: Stylish and intuitive interface for easy navigation.
+## Installation
 
-Efficient Functionality: Optimized performance for quick calculations.
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/hariomsoni0818/codealpha_calculator.git
+   ```
+2. Navigate to the project folder:
+   ```sh
+   cd codealpha_calculator
+   ```
+3. Open `index.html` in your browser.
 
+## Usage
 
-Technologies Used
+- Click the buttons to perform calculations.
+- Use the clear button to reset the calculator.
+- Works on both desktop and mobile devices.
 
-HTML: Structure of the app.
+## Acknowledgment
 
-CSS: Styling for an attractive user interface.
-
-JavaScript: Handles logic and interactivity.
-
-
-Acknowledgment
-
-This task was given by CodeAlpha during the internship program.
+This task was given by **CodeAlpha** during the internship program.
